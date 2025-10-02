@@ -36,6 +36,12 @@ export default function About() {
       role: 'Co-Founder & CTO',
       image: '👨‍💻',
       bio: 'Expert in AI/ML technologies, dedicated to building intelligent legal tech solutions.'
+    },
+    {
+      name: 'Jitandar Kumar',
+      role: 'Co-Founder & CTO',
+      image: '👨‍💻',
+      bio: 'Expert in AI/ML technologies, dedicated to building intelligent legal tech solutions.'
     }
   ];
 
@@ -134,7 +140,7 @@ export default function About() {
           <p className="text-gray-400 text-center mb-12">
             Guided by <span className="text-[#00C2FF] font-semibold">Madam Mubeena Ahsan</span>
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
             {team.map((member, index) => (
               <div
                 key={index}

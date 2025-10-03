@@ -47,7 +47,7 @@ export default function Navbar() {
               <div className="absolute inset-0 bg-[#00C2FF] blur-xl opacity-30 group-hover:opacity-50 transition-opacity"></div>
             </div>
             <span className="text-2xl font-bold bg-gradient-to-r from-[#00C2FF] to-[#00FF88] bg-clip-text text-transparent">
-              JutifyAI
+              JustifyAI
             </span>
           </div>
 

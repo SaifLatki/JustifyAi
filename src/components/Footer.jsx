@@ -24,7 +24,7 @@ export default function Footer({ onNavigate }) {
             <div className="flex items-center space-x-3">
               <Scale className="w-8 h-8 text-[#00C2FF]" />
               <span className="text-xl font-bold bg-gradient-to-r from-[#00C2FF] to-[#00FF88] bg-clip-text text-transparent">
-                JutifyAI
+                JustifyAI
               </span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
@@ -55,7 +55,7 @@ export default function Footer({ onNavigate }) {
             <ul className="space-y-3">
               <li className="text-gray-400 text-sm flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
-                <span>contact@jutifyai.com</span>
+                <span>contact@justifyai.com</span>
               </li>
               <li className="text-gray-400 text-sm">Karachi, Pakistan</li>
             </ul>
@@ -82,7 +82,7 @@ export default function Footer({ onNavigate }) {
         <div className="pt-6 border-t border-white/5">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-center">
             <p className="text-gray-500 text-sm">
-              © 2024 JutifyAI. All rights reserved.
+              © 2024 JustifyAI. All rights reserved.
             </p>
             <p className="text-gray-500 text-sm">
               Guided by Madam Mubeena Ahsan

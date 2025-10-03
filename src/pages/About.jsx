@@ -25,24 +25,24 @@ export default function About() {
   ];
 
   const team = [
-    {
-      name: 'Saifullah Latki',
-      role: 'Co-Founder & CEO',
-      image: '👨‍💼',
-      bio: 'Passionate about leveraging AI to democratize legal access and empower users worldwide.'
-    },
-    {
-      name: 'Hassan Raza',
-      role: 'Co-Founder & CTO',
-      image: '👨‍💻',
-      bio: 'Expert in AI/ML technologies, dedicated to building intelligent legal tech solutions.'
-    },
-    {
-      name: 'Jitandar Kumar',
-      role: 'Co-Founder & CTO',
-      image: '👨‍💻',
-      bio: 'Expert in AI/ML technologies, dedicated to building intelligent legal tech solutions.'
-    }
+ {
+  name: 'Saifullah Latki',
+  role: 'Co-Founder & CEO',
+  image: '👨‍💼',
+  bio: 'Entrepreneur driven to make legal knowledge simple, accessible, and affordable for everyone.'
+},
+{
+  name: 'Hassan Raza',
+  role: 'Co-Founder & CTO',
+  image: '👨‍💻',
+  bio: 'Tech innovator specializing in AI/ML, focused on building scalable and secure platforms.'
+},
+{
+  name: 'Jitandar Kumar',
+  role: 'Co-Founder & COO',
+  image: '👨‍🔧',
+  bio: 'Operations strategist ensuring smooth execution, user-centered design, and business growth.'
+}
   ];
 
   return (
